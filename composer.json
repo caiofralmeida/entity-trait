@@ -1,4 +1,7 @@
 {
+    "name": "jamal/entity-trait",
+    "version": "0.1",
+
     "autoload": {
         "psr-4": {
             "Jamal\\": "src/Jamal"
